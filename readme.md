@@ -1,4 +1,4 @@
-** Squarespace local theming with Gulp + Surge **
+# Squarespace local theming with Gulp + Surge
 
 Theming Squarespace sucks. We tend to write vanilla CSS and copy/paste our changes in Squarespace's internal editor. The idea is to give you the dev tools you know and love in a local environment that's easily deployable to surge.sh CDN. All you need to do is to include your new stylesheet through Squarespace's code injection option. This is how you do it.
 

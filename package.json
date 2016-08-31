@@ -1,0 +1,22 @@
+{
+  "name": "squarespace-gulp-surge",
+  "version": "1.0.0",
+  "description": "Generate static CSS and serve to Surge, add to Squarespace",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Casper Overgaard",
+  "license": "ISC",
+  "dependencies": {
+    "surge": "0.17.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-minify-css": "1.0.0",
+    "gulp-plumber": "1.0.0",
+    "gulp-rename": "1.2.2",
+    "gulp-surge": "^0.1.0"
+  }
+}
